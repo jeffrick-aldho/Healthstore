@@ -1,5 +1,5 @@
-./frontend/nodemodules
-./healthcare-api/venv
-./healthcare-api/__pycache__
-
+frontend/node_modules
+healthcare-api/__pycache__
+healthcare-api/venv
+**/__pycache__/
 
